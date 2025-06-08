@@ -1,7 +1,7 @@
 # Script-Nodejs.
 APLICACIONES MOVILES
 
-Este proyecto contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando `node nombreDelArchivo.js` desde la consola.
+Este proyecto de la tarea d ela semana 2, contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando `node nombreDelArchivo.js` desde la consola.
 
 
  1. linkedList.js
@@ -17,21 +17,20 @@ node linkedList.js
 
 
 Ejemplo de uso esperado:
-```
-➡ Intentar eliminar de una lista vacía:
+
+Intentar eliminar de una lista vacía:
 La lista está vacía. No se puede eliminar.
-➡ Agregando nodos: 5, 10, 15
-➡ Lista actual:
+Agregando nodos: 5, 10, 15
+Lista actual:
 5
 10
 15
-➡ Eliminando el nodo con valor 10:
-➡ Lista después de eliminar:
+Eliminando el nodo con valor 10:
+ Lista después de eliminar:
 5
 15
-```
 
----
+
 
 2. doublyLinkedList.js
 
@@ -40,24 +39,24 @@ Funciones principales:
 - reverseList(nodoInicial): Recorre e imprime los nodos en orden inverso desde el nodo final.
 
 Instrucciones de ejecución:
-```bash
+
 node doublyLinkedList.js
-```
+
 
 Ejemplo de uso esperado:
-```
-➡ Insertando nodos: 1, 2, 3
-➡ Lista en orden directo:
-1
-2
-3
-➡ Lista en orden inverso:
-3
-2
-1
-```
 
----
+Insertando nodos: 1, 2, 3
+Lista en orden directo:
+1
+2
+3
+Lista en orden inverso:
+3
+2
+1
+
+
+
 
 ## 3. nodOperations.js
 
@@ -67,28 +66,26 @@ Funciones principales:
 - countNodesRecursive(nodo): Cuenta el número de nodos de forma recursiva.
 
 Instrucciones de ejecución:
-```bash
+
 node nodOperations.js
-```
+
 
 Ejemplo de uso esperado:
-```
-➡ Creando lista a partir de: [1, 2, 3, 4, 5]
-➡ Lista creada:
+
+Creando lista a partir de: [1, 2, 3, 4, 5]
+Lista creada:
 1
 2
 3
 4
 5
-➡ Contando nodos recursivamente...
+Contando nodos recursivamente...
 Tiempo: X ms
 Total de nodos: 5
 
-➡ Contando nodos en lista vacía...
+Contando nodos en lista vacía...
 La lista está vacía.
-```
 
----
 
 Requisitos:
 - Tener instalado Node.js, tal como se indica en las guias y seguir los pasos sugeridos por el docente

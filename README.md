@@ -5,7 +5,7 @@ Este proyecto contiene tres scripts que implementan estructuras de datos básica
 
 ---
 
-## 📄 1. linkedList.js
+##  1. linkedList.js
 
 ### Funciones principales:
 - `addNode(valor)`: Agrega un nodo con el valor especificado al final de la lista.
@@ -34,7 +34,7 @@ La lista está vacía. No se puede eliminar.
 
 ---
 
-## 📄 2. doublyLinkedList.js
+## 2. doublyLinkedList.js
 
 ### Funciones principales:
 - `insertAt(valor)`: Inserta un nodo con el valor dado al final de la lista doblemente enlazada.
@@ -60,7 +60,7 @@ node doublyLinkedList.js
 
 ---
 
-## 📄 3. nodOperations.js
+## 3. nodOperations.js
 
 ### Funciones principales:
 - `arrayToLinkedList(array)`: Convierte un arreglo de valores en una lista enlazada.

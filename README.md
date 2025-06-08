@@ -7,17 +7,17 @@ Este proyecto contiene tres scripts que implementan estructuras de datos básica
 
  1. linkedList.js
 
-### Funciones principales:
+Funciones principales:
 - `addNode(valor)`: Agrega un nodo con el valor especificado al final de la lista.
 - `deleteNode(valor)`: Elimina el primer nodo que contenga el valor especificado.
 - `printList()`: Imprime todos los valores de la lista enlazada simple.
 
-### Instrucciones de ejecución:
+Instrucciones de ejecución:
 ```bash
 node linkedList.js
 ```
 
-### Ejemplo de uso esperado:
+Ejemplo de uso esperado:
 ```
 ➡ Intentar eliminar de una lista vacía:
 La lista está vacía. No se puede eliminar.
@@ -34,18 +34,18 @@ La lista está vacía. No se puede eliminar.
 
 ---
 
-## 2. doublyLinkedList.js
+2. doublyLinkedList.js
 
-### Funciones principales:
+Funciones principales:
 - `insertAt(valor)`: Inserta un nodo con el valor dado al final de la lista doblemente enlazada.
 - `reverseList(nodoInicial)`: Recorre e imprime los nodos en orden inverso desde el nodo final.
 
-### Instrucciones de ejecución:
+Instrucciones de ejecución:
 ```bash
 node doublyLinkedList.js
 ```
 
-### Ejemplo de uso esperado:
+Ejemplo de uso esperado:
 ```
 ➡ Insertando nodos: 1, 2, 3
 ➡ Lista en orden directo:
@@ -62,17 +62,17 @@ node doublyLinkedList.js
 
 ## 3. nodOperations.js
 
-### Funciones principales:
+Funciones principales:
 - `arrayToLinkedList(array)`: Convierte un arreglo de valores en una lista enlazada.
 - `printList(nodo)`: Imprime todos los nodos de la lista enlazada.
 - `countNodesRecursive(nodo)`: Cuenta el número de nodos de forma recursiva.
 
-### Instrucciones de ejecución:
+Instrucciones de ejecución:
 ```bash
 node nodOperations.js
 ```
 
-### Ejemplo de uso esperado:
+Ejemplo de uso esperado:
 ```
 ➡ Creando lista a partir de: [1, 2, 3, 4, 5]
 ➡ Lista creada:
@@ -91,7 +91,7 @@ La lista está vacía.
 
 ---
 
-## Requisitos:
+Requisitos:
 - Tener instalado Node.js, tal como se indica en las guias y seguir los pasos sugeridos por el docente
 - Abrir consola en la carpeta que contiene los scripts
 - Ejecutar cada script con `node nombreDelArchivo.js`

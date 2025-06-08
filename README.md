@@ -12,9 +12,9 @@ Funciones principales:
 - printList(): Imprime todos los valores de la lista enlazada simple.
 
 Instrucciones de ejecución:
-```bash
+
 node linkedList.js
-```
+
 
 Ejemplo de uso esperado:
 ```

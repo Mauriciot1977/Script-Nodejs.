@@ -7,7 +7,7 @@ Este proyecto contiene tres scripts que implementan estructuras de datos básica
  1. linkedList.js
 
 Funciones principales:
-- `addNode(valor)`: Agrega un nodo con el valor especificado al final de la lista.
+- addNode(valor): Agrega un nodo con el valor especificado al final de la lista.
 - `deleteNode(valor)`: Elimina el primer nodo que contenga el valor especificado.
 - `printList()`: Imprime todos los valores de la lista enlazada simple.
 

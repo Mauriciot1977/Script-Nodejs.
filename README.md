@@ -3,7 +3,6 @@ APLICACIONES MOVILES
 
 Este proyecto contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando `node nombreDelArchivo.js` desde la consola.
 
----
 
  1. linkedList.js
 

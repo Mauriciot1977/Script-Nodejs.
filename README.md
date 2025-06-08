@@ -8,8 +8,8 @@ Este proyecto contiene tres scripts que implementan estructuras de datos básica
 
 Funciones principales:
 - addNode(valor): Agrega un nodo con el valor especificado al final de la lista.
-- `deleteNode(valor)`: Elimina el primer nodo que contenga el valor especificado.
-- `printList()`: Imprime todos los valores de la lista enlazada simple.
+- deleteNode(valor): Elimina el primer nodo que contenga el valor especificado.
+- printList(): Imprime todos los valores de la lista enlazada simple.
 
 Instrucciones de ejecución:
 ```bash
@@ -36,8 +36,8 @@ La lista está vacía. No se puede eliminar.
 2. doublyLinkedList.js
 
 Funciones principales:
-- `insertAt(valor)`: Inserta un nodo con el valor dado al final de la lista doblemente enlazada.
-- `reverseList(nodoInicial)`: Recorre e imprime los nodos en orden inverso desde el nodo final.
+- insertAt(valor): Inserta un nodo con el valor dado al final de la lista doblemente enlazada.
+- reverseList(nodoInicial): Recorre e imprime los nodos en orden inverso desde el nodo final.
 
 Instrucciones de ejecución:
 ```bash
@@ -62,9 +62,9 @@ Ejemplo de uso esperado:
 ## 3. nodOperations.js
 
 Funciones principales:
-- `arrayToLinkedList(array)`: Convierte un arreglo de valores en una lista enlazada.
-- `printList(nodo)`: Imprime todos los nodos de la lista enlazada.
-- `countNodesRecursive(nodo)`: Cuenta el número de nodos de forma recursiva.
+- arrayToLinkedList(array): Convierte un arreglo de valores en una lista enlazada.
+- printList(nodo): Imprime todos los nodos de la lista enlazada.
+- countNodesRecursive(nodo): Cuenta el número de nodos de forma recursiva.
 
 Instrucciones de ejecución:
 ```bash

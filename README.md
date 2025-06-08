@@ -1,7 +1,7 @@
 # Script-Nodejs.
 APLICACIONES MOVILES
 
-Este proyecto de la tarea d ela semana 2, contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando `node nombreDelArchivo.js` desde la consola.
+Este proyecto de la tarea d ela semana 2, contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando node nombreDelArchivo.js desde la consola.
 
 
  1. linkedList.js
@@ -58,7 +58,7 @@ Lista en orden inverso:
 
 
 
-## 3. nodOperations.js
+3. nodOperations.js
 
 Funciones principales:
 - arrayToLinkedList(array): Convierte un arreglo de valores en una lista enlazada.

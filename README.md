@@ -1,7 +1,7 @@
 # Script-Nodejs.
 APLICACIONES MOVILES
 
-Este proyecto de la tarea d ela semana 2, contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando node nombreDelArchivo.js desde la consola.
+Este proyecto de la tarea de la semana 2, contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando node y seguido el nombre del Archivo.js desde la consola.
 
 
  1. linkedList.js
@@ -90,4 +90,4 @@ La lista está vacía.
 Requisitos:
 - Tener instalado Node.js, tal como se indica en las guias y seguir los pasos sugeridos por el docente
 - Abrir consola en la carpeta que contiene los scripts
-- Ejecutar cada script con `node nombreDelArchivo.js`
+- Ejecutar cada script con node nombreDelArchivo.js

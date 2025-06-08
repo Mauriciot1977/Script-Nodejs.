@@ -1,6 +1,5 @@
 # Script-Nodejs.
 APLICACIONES MOVILES
-# Estructuras de Datos en JavaScript para Node.js
 
 Este proyecto contiene tres scripts que implementan estructuras de datos básicas usando JavaScript para ser ejecutados con Node.js. Cada script es independiente y debe ejecutarse con el comando `node nombreDelArchivo.js` desde la consola.
 
